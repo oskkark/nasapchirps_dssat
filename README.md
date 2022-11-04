@@ -1,4 +1,4 @@
-# nasapchirps_dssat
+# nasapchirps_dssat VERSION 2
 Application to download weather data from the NASA POWER API version 2 and merge with CHIRPS dataset to produce WTH files. WTH files are the native format input for DSSAT.
 
 There are two modes of using this tool. 
